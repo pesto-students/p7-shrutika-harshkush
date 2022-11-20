@@ -1,4 +1,5 @@
 a. What is the main functionality of the browser?
+
 The main function of the browser is to get the resources like text or images or other media from the url that is mentioned in the address bar. It allows the user to interact with the web pages and dynamic content like surveys, forms, etc.
 
 b. High Level Components of a browser
