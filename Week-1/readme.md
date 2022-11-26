@@ -1,4 +1,5 @@
 a. What is the main functionality of the browser?
+
 The main function of the browser is to get the resources like text or images or other media from the url that is mentioned in the address bar. It allows the user to interact with the web pages and dynamic content like surveys, forms, etc.
 
 b. High Level Components of a browser
@@ -59,6 +60,7 @@ border
 children
 outline
 
+
 ---------------------
 
 Smarto is to introduce our new feature Smartboard to our loving cutomers.This now functionality "Smartboard" is a digital interactive whiteboard or smart display.
@@ -92,3 +94,4 @@ If we face heavy traffic situation during college and school hours we can go for
 time in between pedestrians and traffic after that we can provide a constant single without a time system so that traffic didn't rush is last few seconds.
 For the public transportation we have to provide a separate public transportation stop in both 
 the intersecting roads so people can easily reach and save there time.
+
