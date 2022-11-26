@@ -59,3 +59,39 @@ background image
 border
 children
 outline
+
+
+---------------------
+
+Smarto is to introduce our new feature Smartboard to our loving cutomers.This now functionality "Smartboard" is a digital interactive whiteboard or smart display.
+It can quickly pull in images from our gallary, so that students can also understand easily by images and it can also modify it according to the demand of user(Teachers or tutors).
+
+The customer can simply go to the website of smarto and conduct the online class by clicking the open conduct a class on the class window customer will get the smart board option.
+On many of the whiteboard we need to write date, day, page numbers etc. but in this smartboard this is already given on the header of the board, the date is on header and page number is on footer
+So that after the class teacher can easly share board you can focus on shape recognition tool, and draw with a style but erase with our finger and also get the tool list we can also erase by clicking tool and then
+erase. On that tool kit customer we get text editor, shapes editor, format colours, markers, highlighters, etc.
+
+One of the most important functionality of smart board is that they it will give not only a simple white boards but also give us varietys of smartboards like for maths there were lot of built in formulas by clicking 
+formula option you will get a list of formula like trignometry formula, Integration formula, differentiation formula. This will make the duty of teachers easier and also beneficial for the students.
+
+Different type of font also provided. Smart board users can start using this feature today when you start writing the things which you want to teach you will now see suggestions for the next few words that you might want to
+be after completing the class this is automatically saved in PDF format so, anyone can access it easily.
+
+"Smarto is the campaign to make you smart" Generally, we are converting our old methods into a new technologies in a less time with smartness. Smartboard is making our teching style better digitally.
+
+ A1: Go to the smart website and conduct the class inside the class panel.
+ A2: Go to the font section we will get many kind of font & languages.
+
+ ----------------------------------
+
+ My team start's with planning out the main objectives of this project that is firstly that we go for the area,
+where this project of intersection of roads to be made in this project we have to consider this points a public transportation stop,
+bicycle lane, zebra crossing, proper traffic signals and most importantly a proper time management system
+We start the the solving the problem of heavy vehicles and four wheeler are to be 
+separated from bicycle and bike riders so we can reduce the chances of accidents then there should be a footpath 
+for pedestrians and the most important zebra crossing with good accuracy of traffic signals for maximum safety of pedestrian. 
+If we face heavy traffic situation during college and school hours we can go for a flyover bridge for pedestrians so we don't have to manage 
+time in between pedestrians and traffic after that we can provide a constant single without a time system so that traffic didn't rush is last few seconds.
+For the public transportation we have to provide a separate public transportation stop in both 
+the intersecting roads so people can easily reach and save there time.
+
